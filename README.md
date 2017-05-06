@@ -8,7 +8,7 @@ Search vehicles by inputting car, model and first registration year 2012, month 
 
 ## Motivation
 
-I was interested in how to inmport almost 5 million rows of data from csv file to mysql database.
+I was interested in how to import almost 5 million rows of data from csv file to mysql database.
 
 ## Installation
 
@@ -30,5 +30,5 @@ Let people know how they can dive into the project, include important links to t
 
 Read license information from here:
 
-https://www.trafi.fi/tietopalvelut/avoin_data
+https://www.trafi.fi/tietopalvelut/avoin_data 
 https://creativecommons.org/licenses/by/4.0/
